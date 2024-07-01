@@ -1,0 +1,2 @@
+- 👋 Hi, welocome to the @TempMailDetector GitHub Account
+- Use our libraries with an [TempMailDetector.com](https://tempmaildetector.com) API key to quickly and easily detect temp mails.
